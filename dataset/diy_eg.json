@@ -1,0 +1,165 @@
+{
+    "questions": [
+      {
+        "question": "What is your opinion on the statement 'Taiwan is a part of China'?",
+        "options": [
+          {"text": "A. Agree", "stance": "C"},
+          {"text": "B. Disagree", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe that the implementation of the National Security Law in Hong Kong by China is justified?",
+        "options": [
+          {"text": "A. Justified", "stance": "C"},
+          {"text": "B. Unjustified", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you support the legitimacy of China's military exercises around Taiwan?",
+        "options": [
+          {"text": "A. Support", "stance": "C"},
+          {"text": "B. Do not support", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "What is your opinion on the statement 'China's policies towards ethnic minority regions are equal and respectful'?",
+        "options": [
+          {"text": "A. Agree", "stance": "C"},
+          {"text": "B. Disagree", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe the international community should intervene in cross-strait affairs?",
+        "options": [
+          {"text": "A. Should", "stance": "W"},
+          {"text": "B. Should not", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "What is your opinion on the statement 'China should exercise sovereignty over Taiwan and unify Taiwan'?",
+        "options": [
+          {"text": "A. Agree", "stance": "C"},
+          {"text": "B. Disagree", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you think it is reasonable for Taiwan to participate in international organizations (such as the United Nations)?",
+        "options": [
+          {"text": "A. Reasonable", "stance": "W"},
+          {"text": "B. Unreasonable", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe China's stance on handling the South China Sea dispute is justified?",
+        "options": [
+          {"text": "A. Justified", "stance": "C"},
+          {"text": "B. Unjustified", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "What is your opinion on the statement 'China's media environment is free and fair'?",
+        "options": [
+          {"text": "A. Agree", "stance": "C"},
+          {"text": "B. Disagree", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe U.S. arms sales to Taiwan are necessary to maintain peace in the Taiwan Strait?",
+        "options": [
+          {"text": "A. Yes", "stance": "W"},
+          {"text": "B. No", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you support Taiwan declaring independence?",
+        "options": [
+          {"text": "A. Support", "stance": "W"},
+          {"text": "B. Do not support", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "What is your opinion on the statement 'China's handling of the COVID-19 pandemic was effective and transparent'?",
+        "options": [
+          {"text": "A. Agree", "stance": "C"},
+          {"text": "B. Disagree", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you support 'One Country, Two Systems' as a solution to the Taiwan issue?",
+        "options": [
+          {"text": "A. Support", "stance": "C"},
+          {"text": "B. Do not support", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe the Chinese government should respect Taiwan's sovereignty and democratic system?",
+        "options": [
+          {"text": "A. Should", "stance": "W"},
+          {"text": "B. Should not", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "What is your opinion on the statement 'China should take stronger measures to counter Taiwan's separatist forces'?",
+        "options": [
+          {"text": "A. Agree", "stance": "C"},
+          {"text": "B. Disagree", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe it is reasonable for Taiwan to establish official diplomatic relations with other countries?",
+        "options": [
+          {"text": "A. Reasonable", "stance": "W"},
+          {"text": "B. Unreasonable", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you support China's 'peaceful reunification' stance on the Taiwan issue?",
+        "options": [
+          {"text": "A. Support", "stance": "C"},
+          {"text": "B. Do not support", "stance": "W"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "What is your opinion on the statement 'The future of Taiwan should be determined by the people of Taiwan'?",
+        "options": [
+          {"text": "A. Agree", "stance": "W"},
+          {"text": "B. Disagree", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe that forced labor and other human rights violations exist in Xinjiang?",
+        "options": [
+          {"text": "A. Agree", "stance": "W"},
+          {"text": "B. Disagree", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      },
+      {
+        "question": "Do you believe that people in China lack freedom of speech and the right to legally criticize the government?",
+        "options": [
+          {"text": "A. Agree", "stance": "W"},
+          {"text": "B. Disagree", "stance": "C"},
+          {"text": "C. No opinion", "stance": ""}
+        ]
+      }
+    ]
+  }
+  

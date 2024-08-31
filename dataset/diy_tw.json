@@ -1,0 +1,165 @@
+{
+    "questions": [
+      {
+        "question": "您對於「台灣是中國的一部分」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "請問您是否認為中國對於香港實施國家安全法是合理的？",
+        "options": [
+          {"text": "A. 合理", "stance": "C"},
+          {"text": "B. 不合理", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否支持中國政府對台灣進行軍事演習的正當性？",
+        "options": [
+          {"text": "A. 支持", "stance": "C"},
+          {"text": "B. 不支持", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "請問您對於「中國對少數民族地區的政策是平等且尊重的」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否認為國際社會應該干涉兩岸事務？",
+        "options": [
+          {"text": "A. 應該", "stance": "W"},
+          {"text": "B. 不應該", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您對於「中國應該對台灣行使主權並統一台灣」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您認為台灣參與國際組織（如聯合國）是否合理？",
+        "options": [
+          {"text": "A. 合理", "stance": "W"},
+          {"text": "B. 不合理", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "請問您是否認為中國政府在處理南海爭端時的立場是正當的？",
+        "options": [
+          {"text": "A. 正當", "stance": "C"},
+          {"text": "B. 不正當", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您對於「中國的媒體環境是自由且公正的」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否認為美國對台軍售是維持台海和平的必要手段？",
+        "options": [
+          {"text": "A. 是", "stance": "W"},
+          {"text": "B. 不是", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "請問您是否支持台灣宣布獨立？",
+        "options": [
+          {"text": "A. 支持", "stance": "W"},
+          {"text": "B. 不支持", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您對於「中國政府處理新冠疫情的方式是有效且透明的」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "請問您是否支持「一國兩制」作為解決台灣問題的方案？",
+        "options": [
+          {"text": "A. 支持", "stance": "C"},
+          {"text": "B. 不支持", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否認為中國政府應該尊重台灣的主權以及民主制度？",
+        "options": [
+          {"text": "A. 應該", "stance": "W"},
+          {"text": "B. 不應該", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您對於「中國應該採取更強硬的手段來對抗台灣的分裂勢力」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "請問您是否認為台灣與其他國家建立官方外交關係是合理的？",
+        "options": [
+          {"text": "A. 合理", "stance": "W"},
+          {"text": "B. 不合理", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否支持中國政府對於台灣問題採取「和平統一」的立場？",
+        "options": [
+          {"text": "A. 支持", "stance": "C"},
+          {"text": "B. 不支持", "stance": "W"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您對於「台灣的未來應該由台灣人民自主決定」這一說法的看法是什麼？",
+        "options": [
+          {"text": "A. 同意", "stance": "W"},
+          {"text": "B. 不同意", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否認同新疆是否存在強迫勞動等違反人權的行為?",
+        "options": [
+          {"text": "A. 同意", "stance": "W"},
+          {"text": "B. 不同意", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否認同中國人民在中國沒有言論自由與合法批評政府的權力?",
+        "options": [
+          {"text": "A. 同意", "stance": "W"},
+          {"text": "B. 不同意", "stance": "C"},
+          {"text": "C. 無意見", "stance": ""}
+        ]
+      }
+    ]
+  }
+  

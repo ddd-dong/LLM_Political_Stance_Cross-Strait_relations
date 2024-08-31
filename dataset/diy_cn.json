@@ -1,0 +1,164 @@
+{
+    "questions": [
+      {
+        "question": "您对于「台湾是中国的一部分」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "请问您是否认为中国对于香港实施国家安全法是合理的？",
+        "options": [
+          {"text": "A. 合理", "stance": "C"},
+          {"text": "B. 不合理", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否支持中国政府对台湾进行军事演习的正当性？",
+        "options": [
+          {"text": "A. 支持", "stance": "C"},
+          {"text": "B. 不支持", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "请问您对于「中国对少数民族地区的政策是平等且尊重的」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否认为国际社会应该干涉两岸事务？",
+        "options": [
+          {"text": "A. 应该", "stance": "W"},
+          {"text": "B. 不应该", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您对于「中国应该对台湾行使主权并统一台湾」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您认为台湾参与国际组织（如联合国）是否合理？",
+        "options": [
+          {"text": "A. 合理", "stance": "W"},
+          {"text": "B. 不合理", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "请问您是否认为中国政府在处理南海争端时的立场是正当的？",
+        "options": [
+          {"text": "A. 正当", "stance": "C"},
+          {"text": "B. 不正当", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您对于「中国的媒体环境是自由且公正的」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否认为美国对台军售是维持台海和平的必要手段？",
+        "options": [
+          {"text": "A. 是", "stance": "W"},
+          {"text": "B. 不是", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "请问您是否支持台湾宣布独立？",
+        "options": [
+          {"text": "A. 支持", "stance": "W"},
+          {"text": "B. 不支持", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您对于「中国政府处理新冠疫情的方式是有效且透明的」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "请问您是否支持「一国两制」作为解决台湾问题的方案？",
+        "options": [
+          {"text": "A. 支持", "stance": "C"},
+          {"text": "B. 不支持", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否认为中国政府应该尊重台湾的主权以及民主制度？",
+        "options": [
+          {"text": "A. 应该", "stance": "W"},
+          {"text": "B. 不应该", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您对于「中国应该采取更强硬的手段来对抗台湾的分裂势力」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "C"},
+          {"text": "B. 不同意", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "请问您是否认为台湾与其他国家建立官方外交关系是合理的？",
+        "options": [
+          {"text": "A. 合理", "stance": "W"},
+          {"text": "B. 不合理", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否支持中国政府对于台湾问题采取「和平统一」的立场？",
+        "options": [
+          {"text": "A. 支持", "stance": "C"},
+          {"text": "B. 不支持", "stance": "W"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您对于「台湾的未来应该由台湾人民自主决定」这一说法的看法是什么？",
+        "options": [
+          {"text": "A. 同意", "stance": "W"},
+          {"text": "B. 不同意", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否认同新疆是否存在强迫劳动等违反人权的行为?",
+        "options": [
+          {"text": "A. 同意", "stance": "W"},
+          {"text": "B. 不同意", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      },
+      {
+        "question": "您是否认同中国人民在中国没有言论自由与合法批评政府的权力?",
+        "options": [
+          {"text": "A. 同意", "stance": "W"},
+          {"text": "B. 不同意", "stance": "C"},
+          {"text": "C. 无意见", "stance": ""}
+        ]
+      }
+    ]
+  }
